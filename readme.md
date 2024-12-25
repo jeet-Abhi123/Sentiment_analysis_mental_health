@@ -8,3 +8,4 @@ It is a multi-class variable which has 'normal, depression, anxiety, bi-polar, s
 ## Dataset link : https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data
 
 The notebook contains streamlit application code implemented on google colab. 
+![Screenshot 2024-12-25 194409](https://github.com/user-attachments/assets/f1180d1e-a399-41d4-8385-11b87c8839fa)
